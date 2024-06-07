@@ -14,34 +14,29 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
-- 🔭 I’m currently working in **Wallester**
+- 🔭 I’m currently working in **Capgemini Engineering** on behalf of **Continental Ag**
 
-- 🌱 I’m currently learning **Go language, PostgreSQL, AWS, Microservices**
+- 🌱 I’m currently learning **Go language, Go Gin**
 
-- 🤝 I’m looking for help with any sorting algorithms on any programming language in [Algorithms project](https://github.com/Matrix278/algorithms)
+- 🤝 I’m looking for contributors on my new project [Uptimeer](https://github.com/dbenmaati/uptimeer)
 
-- 👨‍💻 All of my projects are available at [https://martinsidorov.com/](https://martinsidorov.com/) and here)
 
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/martin-s-8002a0157), [facebook](https://www.facebook.com/nitram278) or by [mail](mailto:martin.sidorov27@gmail.com)
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/dbenmaati/), [facebook](https://www.facebook.com/dhia.benmaati) or by [mail](mailto:d.benmaati@gmail.com)
 
-<p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
-</p>
+<h3 align="left">My private hosted projects:</h3>
+  <a href="https://icogems.com" target="blank">
+    <img align="center" src="assets/icogems-logo.png" alt="Icogems ico calendar" height="54" width="250" />
+  </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/martin-sidorov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
-  <a href="https://fb.com/nitram278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
-  <a href="https://dev.to/matrix278" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="matrix278" height="30" width="40" /></a>
-  <a href="https://twitter.com/nitram278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitram278" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matrix27" height="30" width="40" /></a>
-  <a href="https://codepen.io/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matrix27" height="30" width="40" /></a>
-  <a href="https://martin-sidorov.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@martin.sidorov27" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/11167914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/matrix278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matrix278" height="30" width="40" /></a>
-  <a href="https://www.showwcase.com/matrix278" target="blank"><img align="center" src="https://www.showwcase.com/favicon.png" alt="matrix278" height="30" width="40" /></a>
-  <a href="https://www.polywork.com/matrix278" target="blank"><img align="center" src="https://www.polywork.com/assets/favicon/apple-icon-57x57-49bf05211cd5ebece3be3898101ac4b1d320d45bcbaa5b48f3dbf3dc33c8b3b3.png" alt="matrix278" height="30" width="40" /></a>
-  <a href="https://cord.co/candidate/account/u/candidate/57771" target="blank"><img align="center" src="https://assets.co-hire.com/react/p/cord-icon-180.png" alt="martin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dbenmaati/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhia Ben Maati" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/dhia.benmaati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dhia Ben Maati" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/dhia.maati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dhia Ben Maati" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
