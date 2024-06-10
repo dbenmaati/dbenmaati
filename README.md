@@ -2,17 +2,12 @@
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matrix278&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
-  <a href="#"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="matrix278" /></a>
+ 
+<img align="center" src="https://gifdb.com/images/high/walking-duck-animated-happy-waddle-swnffm726l0qmw5j.gif" alt="Dhia Ben Maati" height="150" width="150" />
+
 </div>
+</br>
 
-<div align="center">
-  <a href="https://u8views.com/github/Matrix278"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
-</div>
-
-<!-- <div align="center"> <img src="https://github.com/Matrix278/Matrix278/blob/master/assets/matrix-has-you.gif" alt="matrix278" /> </div> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
 - 🔭 I’m currently working in **Capgemini Engineering** on behalf of **Continental Ag**
 
