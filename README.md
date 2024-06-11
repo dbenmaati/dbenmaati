@@ -1,9 +1,8 @@
-# <center> Hi 👋, I'm [DHIA!](#) </center>
-
-### <center> A passionate Software Engineer from Tunisia </center>
+<h1 align="center">Hi 👋, I'm <a href="#">DHIA!</a></h1>
+<h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
 <div align="center">
-
+ 
 <img align="center" src="https://gifdb.com/images/high/walking-duck-animated-happy-waddle-swnffm726l0qmw5j.gif" alt="Dhia Ben Maati" height="150" width="150" />
 
 </div>
