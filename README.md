@@ -8,7 +8,7 @@
 </div>
 </br>
 
-- 🔭 I’m currently working in **Capgemini Engineering** on behalf of **Continental Ag**
+- 🔭 I’m currently working in **FIS**
 - 🌱 I’m currently learning **Go language, Go Gin**
 - 🤝 I’m looking for contributors on my new project [Uptimeer](https://github.com/dbenmaati/uptimeer)
 - 📫 How to reach me: You can write me on [LinkedIn](https://www.linkedin.com/in/dbenmaati/), [Facebook](https://www.facebook.com/dhia.benmaati) or by [mail](mailto:d.benmaati@gmail.com)
